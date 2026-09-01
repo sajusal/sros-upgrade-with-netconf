@@ -7,7 +7,9 @@ SR OS support for NETCONF and supported RPCs are available [here](https://docume
 SR OS Yang models are available [here](https://yangbrowser.nokia.com/sros/26.7.R1?from=0)
 
 Test Device: 7750 SR-1x-92S
+
 Current Software version: 26.3.R3
+
 Target Software version: 26.7.R1
 
 ## NETCONF configuration on SR OS
